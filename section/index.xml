@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Anchored Marathon</title>
+    <link>http://anchored-marathon.github.io/section/</link>
+    <description>Recent content in Sections on Anchored Marathon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Mar 2017 00:25:22 -0800</lastBuildDate>
+    
+	<atom:link href="http://anchored-marathon.github.io/section/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Race Info</title>
+      <link>http://anchored-marathon.github.io/section/race-info/race-info/</link>
+      <pubDate>Wed, 29 Mar 2017 00:25:22 -0800</pubDate>
+      
+      <guid>http://anchored-marathon.github.io/section/race-info/race-info/</guid>
+      <description>&amp;ldquo;The Anchored Marathon&amp;rdquo; is a certified and sanctioned Boston Qualifying road marathon. The purpose of the event is to give Alaskan runners an opportunity to qualify for Boston 2021 in state.
+Race date is 8/15/2020. Start time is 9:00am. Race distance is 26.2 miles.
+The course starts and finishes at Goose Lake and consists of two out and backs. The first takes you out toward University Lake via the Chester Creek Trail where you will turn around at the roundabout near the southwest corner of the lake.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://anchored-marathon.github.io/section/contact/contact/</link>
+      <pubDate>Wed, 29 Mar 2017 23:36:05 -0800</pubDate>
+      
+      <guid>http://anchored-marathon.github.io/section/contact/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>http://anchored-marathon.github.io/section/registration/registration/</link>
+      <pubDate>Wed, 29 Mar 2017 22:49:07 -0800</pubDate>
+      
+      <guid>http://anchored-marathon.github.io/section/registration/registration/</guid>
+      <description>Registration opens April 1, 2017 at UltraSignup</description>
+    </item>
+    
+  </channel>
+</rss>
