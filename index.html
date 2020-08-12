@@ -25,25 +25,35 @@
 
 <body>
 
-  <div class="w-full pt-8 md:pt-16 font-mono">
+  <div style="background: url(/img/art.jpg) no-repeat 0px -275px fixed; background-size: cover;"  class="w-full pt-8 md:pt-16 font-mono">
     
-    <header class="md:flex md:w-1/2 h-auto md:pl-12 px-4 md:px-16 md:justify-center items-center relative">
+    <header 
+      class="md:flex md:w-1/2 h-auto md:pl-12 px-4 md:px-16 md:justify-center items-center relative">
       <div class="w-full relative text-right">
         <img src="/img/anchored-logo.png" class="site-logo">
-        <h2 class="site-sub-head">August 15, 2020 // 9am&nbsp;</h2>
+        <h2 class="site-sub-head" style="color:#f9e3fa;">August 15, 2020 // 9am&nbsp;</h2>
       </div>
 
     </header>
     
-    <div class="w-full bg-gray-900">
-      <div class="relative h-32 border-none" style="background-image: linear-gradient(#4568dc, #b06ab3);">
-        <svg viewBox="0 0 100 100" preserveAspectRatio="none" class="absolute top-0 w-full h-24 fill-current text-white border-none">
-          <polygon points="0,0 100,0 0,100" />
-        </svg>
-        <svg viewBox="0 0 100 100" preserveAspectRatio="none" class="absolute bottom-0 w-full h-16 fill-current text-gray-900 border-none">
+    <div class="w-full">
+      <div class="relative h-40 border-none" style="background: transparent;">
+        
+        <svg viewBox="0 0 100 100" preserveAspectRatio="none" class="absolute bottom-0 w-full h-16 fill-current text-gray-900 border-none" >
           <polygon points="0,100 100,0 100,100" />
         </svg>
+        <svg viewBox="0 0 100 100" preserveAspectRatio="none" class="absolute bottom-0 w-full h-16 fill-current text-gray-900 border-none">
+          <defs>
+            <linearGradient id="grad">
+                <stop offset="0" stop-color="#4568dc"/>
+                <stop offset="1" stop-color="#b06ab3"/>
+            </linearGradient>
+          </defs>
+          <polygon points="0,70 0,100 100,66 100,0" style="fill:url(#grad);" />
+        </svg>
       </div>
+    </div>
+    <div class="w-full bg-gray-900 pt-12">
 
       <div class="md:w-1/2 text-gray-300 md:text-right px-12">
         <p class="py-4">"The Anchored Marathon" is a certified and sanctioned Boston Qualifying road marathon.  The purpose of the event is to give Alaskan runners an opportunity to qualify for Boston 2021 in state.</p>
@@ -67,7 +77,7 @@
       </div>
       
     </div>
-    <div class="relative h-32" style="background-image: linear-gradient(#4568dc, #b06ab3);">
+    <div class="relative h-32" style="background-image: linear-gradient(#4568dc, #f9e3fa);">
       <svg viewBox="0 0 100 100" preserveAspectRatio="none" class="absolute top-0 w-full h-24 fill-current text-gray-900">
         <polygon points="0,0 100,0 0,100" />
       </svg>
